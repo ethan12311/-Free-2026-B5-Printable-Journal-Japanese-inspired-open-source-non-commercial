@@ -1,0 +1,2 @@
+# -Free-2026-B5-Printable-Journal-Japanese-inspired-open-source-non-commercial
+Just published: 2026 Journal — a free, open-source B5 printable yearly journal inspired by Hobonichi Techo &amp; Takahashi Shoten. 92 pages, Cormorant Garamond serif throughout, Japanese frontispiece (一期一會), 15 reflection prompts. Non-commercial CC BY-NC 4.0. Completely prompted &amp; powered by GLM 5.2. Print it, write in it, share it.
