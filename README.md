@@ -1,14 +1,12 @@
-# GitHub Repository Description (paste into the "About" field on your repo)
-
-## Short Description (350 chars max — for GitHub About field)
+##  Description 
 
 A free, open-source B5 printable yearly journal for 2026. 92 pages with Japanese-inspired frontispiece (一期一會), monthly calendars (Mon-first), weekly writing pages, and 15 guided reflection prompts. Strictly Cormorant Garamond serif. Non-commercial CC BY-NC 4.0. Completely prompted and powered by GLM 5.2.
 
-## Even Shorter (for Twitter/social media)
+## Description ~~
 
 Free 2026 B5 printable journal: Japanese-inspired frontispiece, monthly calendars, weekly writing pages, 15 reflection prompts. All Cormorant Garamond serif. Non-commercial. Built with GLM 5.2. 📓✨
 
-## Tags for GitHub Topics (add in repo settings)
+## Tags for GitHub Topics 
 
 ```
 journal planner printable pdf b5 bullet-journal hobonichi jibun-techo japanese-stationery 2026 minimal reflection gratitude-journal analog paper cormorant-garamond ai-assisted glm non-commercial open-source creative-commons
