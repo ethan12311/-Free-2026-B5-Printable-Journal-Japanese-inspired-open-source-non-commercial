@@ -24,9 +24,7 @@ printable journal, B5 planner, 2026 journal, free planner template, bullet journ
 
 > 📓 Just published: 2026 Journal — a free, open-source B5 printable yearly journal inspired by Hobonichi Techo & Takahashi Shoten. 92 pages, Cormorant Garamond serif throughout, Japanese frontispiece (一期一會), 15 reflection prompts. Non-commercial CC BY-NC 4.0. Completely prompted & powered by GLM 5.2. Print it, write in it, share it. → [link]
 
-## Sample Reddit Post (r/bulletjournal or r/planners)
-
-> **[Free] 2026 B5 Printable Journal — Japanese-inspired, open-source, non-commercial**
+## [Free] 2026 B5 Printable Journal — Japanese-inspired, open-source, non-commercial**
 >
 > Hi everyone! I made a 92-page B5 printable yearly journal for 2026, inspired by Hobonichi Techo and Takahashi Shoten. It's completely free, open-source, and non-commercial (CC BY-NC 4.0).
 >
